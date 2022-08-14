@@ -1,0 +1,99 @@
+baseURL = ""
+languageCode = "pt-br"
+theme = "raditian-free-hugo-theme"
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
+
+
+
+
+# navigation
+[menu]
+
+  [[menu.header]]
+  name = "Sobre"
+  URL = "#sobre"
+  weight = 2
+
+  [[menu.header]]
+  name = "Quem somos"
+  URL = "#quem-somos"
+  weight = 3
+
+  [[menu.header]]
+  name = "Contato"
+  URL = "#contato"
+  weight = 6
+
+  [[menu.header]]
+  name = "Acesso à Plataforma"
+  URL = "https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/"
+  weight = 5
+
+  [[menu.header]]
+  name = "Metodologia"
+  URL = "#metodologia"
+  weight = 4
+
+
+  [[menu.footer]]
+  name = "Sobre"
+  URL = "#sobre"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Quem somos"
+  URL = "#quem-somos"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Contato"
+  URL = "#contato"
+  weight = 6
+
+  [[menu.footer]]
+  name = "Acesso à Plataforma"
+  URL = "https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/"
+  weight = 5
+
+  [[menu.footer]]
+  name = "Metodologia"
+  URL = "#metodologia"
+  weight = 4
+
+
+[params]
+
+  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+
+  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+
+  favicon = "img/general/foot-logo.png"
+
+  [params.logo]
+    text1 = "reeLegis"
+    text2 = ""
+
+  [params.footer]
+      copyright = "© reeLegis"
+      [params.footer.radity_logo]
+        x = "img/general/foot-logo-branco.png"
+        _2x = "img/general/foot-logo-branco.png"
+        alt = "reeLegis"

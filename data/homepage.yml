@@ -1,0 +1,235 @@
+# homepage
+homepage:
+  head:
+    title: "reeLegis"
+# showcase
+showcase:
+  enable: true
+  title: "Olá! Somos o reeLegis"
+  subtitle: ""
+  description: "No dia 2 de outubro de 2022 acontecerá o primeiro turno das eleições.
+  Apesar da atenção que dedicamos para as disputas presidenciais e do Governo do Estado,
+   neste dia também elegeremos aqueles que ocuparam o poder Legislativo. Ou seja, as mulheres e
+   os homens que vão ajudar o/a presidente e os/as governadores a produzir as leis, distribuir os
+   recursos orçamentários pelo território nacional e fiscalizar os membros do poder Executivo.
+   Pensando nisso, apresentamos a plataforma reeLegis que lhe possibilita pesquisar sobre
+  o que os parlamentares e os partidos políticos apresentaram em matéria legislativa entre 2019 a 2022,
+   para, assim, você descobrir quais temas foram mais enfatizados durante o período
+    e analisar o que fizeram parlamentares que estão buscando a reeleição para o cargo de deputado federal."
+  image:
+    alt: "reeLegis"
+    x: "img/showcase/logo-inicio.png"
+    _2x: "img/showcase/logo-inicio.png"
+  imageMobile:
+    alt: "reeLegis"
+    x: "img/showcase/logo-inicio.png"
+
+  button:
+    icon: "icon-arrow-right"
+    btnText: "Clique aqui para acessar nossa Plataforma"
+    URL: "https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/"
+
+#  socialLinks:
+#    - icon: "linkedin"
+#      URL: "https://www.linkedin.com/company/radity/"
+#
+#    - icon: "github"
+#      URL: "https://github.com/radity"
+#
+#    - icon: "twitter"
+#      URL: "https://twitter.com/radity"
+#
+#    - icon: "dribbble"
+#      URL: "https://dribbble.com/radity"
+#
+#    - icon: "behance"
+#      URL: "https://www.behance.net/radity-digital"
+#
+#    - icon: "youtube"
+#      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+#
+#    - icon: "instagram"
+#      URL: "https://www.instagram.com/teamradity/"
+#
+#    - icon: "facebook"
+#      URL: "https://www.facebook.com/raditycom/"
+#
+#    - icon: "codepen"
+#      URL: "#"
+#
+#    - icon: "yelp"
+#      URL: "https://www.yelp.com/"
+
+# about
+about:
+  enable: true
+  title: "Sobre"
+  content: 'O <a href= https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/ >reeLegis</a> é uma plataforma que lhe permite pesquisar sobre quais foram os assuntos mais apresentados na Câmara dos Deputados entre 2019 e 2022, possibilitando, desse modo, conhecer o trabalho do Deputado ou Deputada Federal que você pretende votar no dia 02 de outubro de 2022.
+
+Você irá utilizar nossa Versão Beta 🐠 . Isso indica que o projeto está em fase de crescimento e ao longo do período eleitoral traremos novas atualizações.
+
+Pensamos em três modos, levando em consideração as possibilidades de como você pode votar na urna, pensamos em três modos de você encontrar o/a parlamentar que tem mais afinidade com os assuntos que você considera mais importante. Em nossa <a href= https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/ >Plataforma Interativa</a>, você poderá:
+
+
+</p>
+<p class="lead"> 1. Escolher o parlamentar de modo individual no seu distrito eleitoral (o estado em que você vota) - voto no parlamentar individual; </p>
+
+<p class="lead"> 2. Escolher o partido em que você possui uma maior preferência - voto na legenda partidária;</p>
+
+<p class="lead"> 3. Não sabe em quem votar? Se você ainda não decidiu seu voto, você pode escolher um parlamentar ou partido que tenha maior afinidade temática com você.</p>
+
+<p class="lead">Esperamos que a plataforma possa lhe ajudar a fazer um voto mais consciente!</p>
+
+<p class="lead">E em breve teremos mais atualizações!</p>'
+
+  image:
+    x: "img/who-am-i/sobre-pic.png"
+    _2x: "img/who-am-i/user-picture.png"
+
+# education
+#education:
+#  enable: true
+#  title: "Education"
+#  items:
+#    - university: "University of Waterloo"
+#      year: "2012-2017"
+#      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+
+#    - university: "Sir John A Macdonald CI"
+#      year: "2009-2012"
+#      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+
+# experience
+#experience:
+#  enable: true
+#  title: "Experience"
+#  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+#  button:
+#    icon: "icon-linkedin-fill"
+#    btnText: "Linkedin"
+#    URL: "https://www.linkedin.com/company/radity/"
+#  button2:
+#    icon: "icon-profile-fill"
+#    btnText: "Download My Resume"
+#    URL: "#"
+
+#  items:
+#    - title: "Sr. Front-End Developer"
+#      company: "Radity"
+#      duration: "Feb 2011 - Sep 2019"
+#
+#    - title: "Sr. Front-End Developer"
+#      company: "Textic"
+#      duration: "Apr 2010 - Jan 2011"
+
+#    - title: "Jr. Front-End Developer"
+#      company: "Cyberse"
+#      duration: "Jun 2009 - Mar 2010"
+
+# Client & Work
+client_and_work:
+  title: "Quem somos"
+  enable: true
+
+  clients:
+    - logo:
+        x: "img/clients/labcpcex.png"
+        _2x: "img/clients/labcpcexx.png"
+      alt: "labcpcex"
+
+    - logo:
+        x: "img/clients/dcp.png"
+        _2x: "img/clients/dcp.png"
+      alt: "UFPE"
+
+    - logo:
+        x: "img/clients/ufpe.png"
+        _2x: "img/clients/ufpe.png"
+      alt: "UFPE"
+
+
+  works:
+    - title: "Renata Cavalcanti"
+      description: "Bacharel, Mestre e doutoranda em Ciência Política pela Universidade
+      Federal de Pernambuco (UFPE). Gosto bastante de realizar Análise de Dados na linguagem R e
+      sei um pouco de Python. Atualmente faço parte do
+      Laboratório de Ciência Política Computacional e Experimental (@cpcex_lab) e do Grupo de Estudos sobre
+      Comportamento Político e Opinião Pública (UFPE).
+      Minhas áreas de interesse são Análise de Dados, Texto como Dado, Programação,
+      Comportamento Político e Opinião Pública."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Conheça um pouco mais sobre mim!"
+        URL: "https://cpcex-lab.rbind.io/author/renata-cavalcanti/"
+      image:
+        x: "img/works/renata.png"
+        _2x: "img/works/renata.png"
+      is_even: true
+
+    - title: "Bhreno Vieira"
+      description: "Bacharel, Mestre e doutorando em Ciência Política
+      pela Universidade Federal de Pernambuco (UFPE). Minha pesquisa se concentra
+      amplamente em estudos legislativos. Membro do Grupo de Instituições,
+      Política e Governo (UFPE) e do Laboratório de Ciência Política
+      Computacional e Experimental. Também sou bastante interessado em
+      Texto como Dado e Pesquisas Qualitativas. "
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Conheça um pouco mais sobre mim!"
+        URL: "https://cpcex-lab.rbind.io/author/bhreno-vieira/"
+      image:
+        x: "img/works/bhreno.png"
+        _2x: "img/works/bhreno"
+      is_even: true
+
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Metodologia"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "img/testimonials/daniel-jordan.jpg"
+        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "img/testimonials/jonathan-peters.jpg"
+        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "img/testimonials/antonio-willis.jpg"
+        _2x: "img/testimonials/antonio-willis@2x.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contato"
+  form:
+    method: "POST"
+    action: "#"
+    full_name: "Nome"
+    email: "E-mail"
+    message: "Escreva sua mensagem aqui"
+  email:
+    title: "Email"
+    email: '<a href="mailto:cpcex.lab@ufpe.br">cpcex.lab@ufpe.br</a>'
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Enviar mensagem"
+
+# newsletter
+#newsletter:
+#  enable: true
+#  title: "Newsletter subscription"
+#  success_message: "Successfully subscribed"
+#  error_message: "Error while subscribing."
+#  note: "We'll never share your email with anyone else."
